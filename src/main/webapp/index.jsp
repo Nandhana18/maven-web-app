@@ -1,14 +1,15 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> NANDHANA BASKAR <font></h1>
+<h2> <font color='pink'> nandhanabaskar2000@gmail.com</h2>
+  <h3>  Location : Chennai</h3>
+<a href =https://github.com/Nandhana18> </a>
+ <a href= https://linkedin.com/in/nandhana-baskar-91405317b> </a>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77</h2>
+
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
-  
- <p> All the best my dear friend....</p>
+ <marquee > HAVE A NICE DAY....</marquee>
 
 </body>
 </html>
